@@ -32,7 +32,7 @@ If you're having trouble with your GitHub account, contact [Support](https://sup
 
 That's how you can easily become a member of the GitHub Docs community. :sparkles:
 
-## READMEs
+## README	
 
 In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
 
